@@ -16,8 +16,5 @@
     "main.c8f2f924.js.map": "/static/js/main.c8f2f924.js.map",
     "409.d3ca773c.js.map": "/static/js/409.d3ca773c.js.map"
   },
-  "entrypoints": [
-    "static/js/409.d3ca773c.js",
-    "static/js/main.c8f2f924.js"
-  ]
+  "entrypoints": ["static/js/409.d3ca773c.js", "static/js/main.c8f2f924.js"]
 }
