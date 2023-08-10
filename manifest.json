@@ -1,0 +1,20 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "Expense Tracker",
+  "short_name": "Expense Tracker",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.gusfonseca.expensetracker"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.gusfonseca.expensetracker",
+      "id": "com.gusfonseca.expensetracker"
+    }
+  ],
+  "prefer_related_applications": true
+}

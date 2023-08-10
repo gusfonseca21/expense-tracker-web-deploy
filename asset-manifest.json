@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c8f2f924.js",
+    "static/js/409.d3ca773c.js": "/static/js/409.d3ca773c.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/logo-dinheiro.png": "/static/media/logo-dinheiro.be7d7b5aac403c3e46de.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/logo-credito.png": "/static/media/logo-credito.fb317f4fb0682677647a.png",
+    "static/media/logo-debito.png": "/static/media/logo-debito.32ae852b4cb425774a5d.png",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/logo-pix.png": "/static/media/logo-pix.61afb614f8eee482f795.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.c8f2f924.js.map": "/static/js/main.c8f2f924.js.map",
+    "409.d3ca773c.js.map": "/static/js/409.d3ca773c.js.map"
+  },
+  "entrypoints": [
+    "static/js/409.d3ca773c.js",
+    "static/js/main.c8f2f924.js"
+  ]
+}
